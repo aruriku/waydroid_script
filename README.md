@@ -1,6 +1,7 @@
 # Waydroid Extras Script
 
 Script to add GApps and other stuff to Waydroid!
+This is fork that uses patched libhoudini and libndk binaries for Android 11 to make Blue Archive work.
 
 # Installation/Usage
 
