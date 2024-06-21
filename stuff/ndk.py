@@ -8,7 +8,7 @@ class Ndk(General):
     id = "libndk"
     partition = "system"
     dl_links = {
-        "11": ["https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt/archive/9324a8914b649b885dad6f2bfd14a67e5d1520bf.zip", "c9572672d1045594448068079b34c350"],
+        "11": ["https://github.com/aruriku/vendor_google_proprietary_ndk_translation-prebuilt/archive/efcc45ce7ae98b3ee8bf93362f7d52b217fb455c.zip", "6e55d545cdf3ec4613ad50a963ff25fa"],
         "13": ["https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt/archive/a090003c60df53a9eadb2df09bd4fd2fa86ea629.zip", "e6f0d9fc28ebc427b59a3942a9a4ffc0"]
     }
     dl_file_name = "libndktranslation.zip"
